@@ -47,7 +47,7 @@ body {
 
 .item-text {
   background: #fff;
-  transition: 0.3s ease-in all;
+  transition: 0.3s ease opacity;
   max-height: 0;
   overflow: hidden;
   opacity: 0;
