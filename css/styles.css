@@ -61,3 +61,9 @@ body {
 .title-acordion.active i {
   transform: rotate(-180deg);
 }
+
+@media screen and (max-width: 768px) {
+  .main-container {
+    padding: 2rem 13px;
+  }
+}
